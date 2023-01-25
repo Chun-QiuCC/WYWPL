@@ -29,8 +29,9 @@
 ```
 - ### 如果 **WYWPL** 对你有帮助，欢迎为本项目点一个Star
 <br>
-<img src="https://img.shields.io/badge/version-v1.0.0-blue">
-<img src="https://img.shields.io/badge/last%20commit-january%202023-green">
-<a href="https://github.com/Chun-QiuCC/WYWPL">
-<img src="https://img.shields.io/badge/license-WYWLP-yellow">
-</a>
+<p align="center">
+<a href=#><img src="https://img.shields.io/badge/version-v1.0.0-blue"></a>
+<a href=#><img src="https://img.shields.io/badge/last%20commit-january%202023-green"></a>
+<a href="https://github.com/Chun-QiuCC/WYWPL"><img src="https://img.shields.io/badge/license-WYWLP-yellow"></a>
+</p>
+
